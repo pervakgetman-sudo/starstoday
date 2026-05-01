@@ -24,7 +24,7 @@ import aiohttp
 import pytz
 
 # ---------- КОНФИГУРАЦИЯ ИЗ ПЕРЕМЕННЫХ ОКРУЖЕНИЯ ----------
-BOT_TOKEN = os.environ.get("BOT_TOKEN")
+BOT_TOKEN = os.environ.get("8636772023:AAFU42LXhnpb3Eg2nYW1z-pCo1f4ja8m564")
 if not BOT_TOKEN:
     raise ValueError("BOT_TOKEN не установлен в переменных окружения")
 
